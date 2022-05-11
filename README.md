@@ -1,4 +1,4 @@
-# Exploratory Data Analysis - Loan-Investment-Case-Study
+# Exploratory Data Analysis - Loan Investment Case Study
 <img src = “https://github.com/ravichan18/images/blob/main/EDA_LoanInvestment.jpeg” width = "1000"/>
 
 # Scope
