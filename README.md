@@ -3,6 +3,8 @@
 <img src = “https://github.com/ravichan18/images/blob/main/EDA_LoanInvestment.jpeg” width = "1000"/>
 -->
 
+Check out the jupiter notebook here: https://jovian.ai/ivarchan/loans-datasets-project
+
 # Scope
 This project is about consumer finance company which specialised in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
 
